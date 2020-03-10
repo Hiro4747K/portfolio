@@ -105,6 +105,12 @@
     float: right;
 }
 @media (max-width: 767px) {
+  .container-fluid {
+      padding-right: 15px;
+      padding-left: 15px;
+      margin-right: auto;
+      margin-left: auto;
+  }
     .jumbotron-extend {
         height: 300px;
         min-height: 0;
