@@ -142,7 +142,7 @@
         font-size: 14px;
     }
     .contents .img-responsive {
-        width: 90%;
+        width: 100%;
         max-width: none;
     }
     .post-item {
