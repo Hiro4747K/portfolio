@@ -19,7 +19,7 @@ a{
     position: relative;
     top: 50%;
     transform: translateY(-50%);
-  padding-left: 30px;
+    padding-left: 30px;
     padding-right: 30px;
 }
 .site-name {
@@ -58,6 +58,7 @@ a{
     float: left;
     width: 52.08%;
 }
+
 .content-secondary {
     float: right;
     width: 37.92%;
@@ -67,6 +68,9 @@ a{
 }
 .post-item-header {
     margin-bottom: 20px;
+}
+.aaa{
+  width: 100%;
 }
 .post-item-header .media-body {
     font-family: "Avenir", serif;
