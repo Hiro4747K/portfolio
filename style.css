@@ -19,6 +19,8 @@ a{
     position: relative;
     top: 50%;
     transform: translateY(-50%);
+  padding-left: 30px;
+    padding-right: 30px;
 }
 .site-name {
     margin-bottom: 40px;
